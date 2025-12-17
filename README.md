@@ -2,7 +2,7 @@
 
 Collection of algorithm implementations and problem solutions (SOS) for competitive programming and technical interviews.
 
-
+```
 dsa
 ├── Leetcode_easy
 ├── Leetcode_medium
@@ -12,4 +12,4 @@ dsa
 ├── linked_list_implementation
 ├── missing_no
 └── twosum
-
+```
